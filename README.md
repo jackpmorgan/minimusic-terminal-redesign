@@ -2,7 +2,7 @@
 
 A modern, full-stack web application built with Cloudflare Workers for the backend API and React for the frontend. This template provides a production-ready starting point with seamless deployment to Cloudflare.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jackpmorgan/minimusic-terminal-redesign)
 
 ## Features
 
@@ -97,7 +97,7 @@ Deploy to Cloudflare Pages + Workers:
 
 This builds assets and deploys the Worker + Pages app. Your app will be live at `https://<worker-name>.workers.dev`.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jackpmorgan/minimusic-terminal-redesign)
 
 **Pro Tip**: Bind custom domains via Wrangler dashboard or CLI:
 ```bash
